@@ -1,2 +1,2 @@
-#Blog writing website 
-#By satyam Goswami
+# Blog writing website 
+# By satyam Goswami
